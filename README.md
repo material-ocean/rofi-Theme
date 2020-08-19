@@ -1,10 +1,13 @@
-![](https://raw.githubusercontent.com/material-ocean/rofi-Theme/master/2019-08-17_20-39.png)
+![screenshot](./screenshot.png)
 
 ### Installation:
 
 - Clone or download this repo
-- copy `config` and `Material-Ocean.rasi` to `~/.config/rofi`
+- copy config `cp config.rasi ~/.config/rofi`
+- copy theme file `cp material-ocean.rasi ~/.config/rofi`
+- enjoy!
 
 ### License:
 
 Licensed under [GNU’s GPL version 3](https://github.com/material-ocean/Material-Ocean/blob/master/LICENSE)
+
