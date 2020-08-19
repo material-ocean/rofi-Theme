@@ -1,0 +1,7 @@
+configuration {
+  font: "SF Pro Rounded 10";
+  show-icons: true;
+  hide-scrollbar: true;
+  theme: "~/.config/rofi/material-ocean.rasi";
+  kb-cancel: "Escape,Alt+F1";
+}
