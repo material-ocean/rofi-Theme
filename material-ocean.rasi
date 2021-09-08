@@ -1,5 +1,5 @@
-/* 
-  Copyright © Blacksuan19 @ 2020 
+/*
+  Copyright © Blacksuan19 @ 2020
   part of material ocean colorscheme
   licensed under GNU's GPL 3
 */
@@ -82,16 +82,14 @@ element {
   padding: 6px 6px 6px 6px;
 }
 
+element-text, element-icon {
+    background-color: inherit;
+    text-color: inherit;
+}
+
 element-icon {
   size: 18px;
   border: 0px;
-}
-
-element-text {
-  expand: true;
-  horizontal-align: 0;
-  vertical-align: 0;
-  margin: 2px 0px 2px 2px;
 }
 
 element selected {
